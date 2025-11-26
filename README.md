@@ -11,3 +11,5 @@ Este repositório foi criado para que os alunos pratiquem o fluxo de trabalho **
 - Fazer **commits organizados**
 - Abrir **pull requests**
 - Realizar **merges** seguindo o modelo GitFlow
+ 
+- teste de codigo 

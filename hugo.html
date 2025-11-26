@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo Nome</title>
+</head>
+<body>
+
+    <p>Qual teu nome?</p>
+    <input type="text" id="nomeInput" placeholder="Digite seu nome">
+    <button onclick="mostrarNome()">Enviar</button>
+
+    <h1>
+        Olá <span id="nome"></span>
+    </h1>
+
+    <script>
+        function mostrarNome() {
+            const nomeDigitado = document.getElementById('nomeInput').value;
+            const spanNome = document.getElementById('nome');
+
+            
+            spanNome.textContent = nomeDigitado;
+            
+        }
+    </script>
+alteração teste 
+</body>
+</html>
