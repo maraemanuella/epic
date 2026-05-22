@@ -1,15 +1,26 @@
-# epic
-## Treinamento de GitFlow
+#  Treinamento de Git e GitHub - UFT
 
-Este repositório foi criado para que os alunos pratiquem o fluxo de trabalho **GitFlow**, uma metodologia usada para organizar o desenvolvimento de software através de branches estruturadas.
+**Ministrado por Mara Emanuella**  
+**Universidade Federal do Tocantins (UFT)**  
+**Palmas - TO | 2026**
 
 ---
 
-## O que você vai praticar
+##  Sobre o Treinamento
 
-- Criar e trabalhar com **feature**, **release** e **hotfix**
-- Fazer **commits organizados**
-- Abrir **pull requests**
-- Realizar **merges** seguindo o modelo GitFlow
- 
-- teste de codigo 
+Este repositório foi criado como parte prática do **Treinamento de Git e GitHub** ministrado na Universidade Federal do Tocantins.
+
+O objetivo foi proporcionar aos alunos uma experiência **realista e colaborativa**, simulando um fluxo completo de desenvolvimento em equipe usando Git e GitHub.
+
+###  O que os alunos praticaram:
+
+- Criar branches com padrão de nomenclatura
+- Fazer commits com mensagens semânticas
+- Abrir Pull Requests (PRs)
+- Revisar e aprovar PRs dos colegas
+- Resolver conflitos (quando necessário)
+- Fazer merge via Pull Request
+- Criar **Release** oficial do projeto
+
+---
+
